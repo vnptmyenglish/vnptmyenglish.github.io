@@ -1142,10 +1142,10 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
     // menu
-    DREX_NODE_NAMES: ["Title","1. First topic","2. Second topic","A topic without number","1.1. First subtopic"],
-    DREX_NODE_LINKS: ["index.htm","first_topic.htm","second_topic.htm","a_topic_without_number.htm","first_subtopic.htm"],
-    DREX_NODE_CHILD_START: [1,4,5,5,5],
-    DREX_NODE_CHILD_END: [4,5,5,5,5],
+    DREX_NODE_NAMES: ["THÔNG TIN HƯƠNG DẪN CHO HỌC VIÊN","1. MyEnglish Guide","1.1. THÔNG TIN GIỚI THIỆU VỀ LỚP HỌC VNPT- MYENGLISH","1.2. HƯỚNG DẪN VÀO LỚP HỌC CỦA TÔI ĐỂ HỌC KHÓA HỌC CỦA LỚP  ","1.3. CÁC BƯỚC HỌC TIẾNG ANH HIỆU QUẢ TRONG VIDEO BÀI HỌC","1.4. CÁCH ÔN HỌC TỪ VỰNG HIỆU QUẢ  ","1.5. HƯỚNG DẪN PHƯƠNG PHÁP HỌC MYENGLISH HIỆU QUẢ","1.6. HƯỚNG DẪN HỌC NÂNG CAO KỸ NĂNG PHÁT ÂM"," 1.7. HƯỚNG DẪN XEM KẾT QUẢ, TIẾN ĐỘ THỰC HIỆN KHÓA HỌC  ","1.8. HƯỚNG DẪN HỌC NGOÀI KHÓA HỌC CỦA LỚP  ","1.9. HƯỚNG DẪN ĐỔI MẬT KHẨU"],
+    DREX_NODE_LINKS: ["index.htm","myenglish_guide.htm","thong_tin_gioi_thieu_ve_lop_hoc_vnpt__myenglish.htm","1_2__huong_dan_vao_lop_hoc_cua_toi_de_hoc_khoa_hoc_cua_lop__.htm","1_3__cac_buoc_hoc_tieng_anh_hieu_qua_trong_video_bai_hoc.htm","1_4__cach_on_hoc_tu_vung_hieu_qua__.htm","1_5__huong_dan_phuong_phap_hoc_myenglish_hieu_qua.htm","1_6__huong_dan_hoc_nang_cao_ky_nang_phat_am.htm","_1_7__huong_dan_xem_ket_qua__tien_do_thuc_hien_khoa_hoc__.htm","1_8__huong_dan_hoc_ngoai_khoa_hoc_cua_lop__.htm","1_9__huong_dan_doi_mat_khau.htm"],
+    DREX_NODE_CHILD_START: [1,2,11,11,11,11,11,11,11,11,11],
+    DREX_NODE_CHILD_END: [2,11,11,11,11,11,11,11,11,11,11],
     DREX_MENU_TYPE: 2,
     DREX_HAS_ROOT_NODE: 0};
 

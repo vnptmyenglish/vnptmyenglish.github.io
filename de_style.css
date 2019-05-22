@@ -73,9 +73,93 @@ font-weight:normal;
 img.de_75F9C4A440
 {
 margin-top: 3px; margin-right: 3px; margin-bottom: 3px; margin-left: 3px;}
+img.de_780D01ADE8
+{
+margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
 img.de_D457E58A2E
 {
 margin-top: 0px; margin-right: 8px; margin-bottom: 8px; margin-left: 8px;}
+span.de_2B94C39861
+{
+	color:#0000ff;
+	text-decoration:underline;
+}
+span.de_8875473D98
+{
+	color:#ff3600;
+}
 .list-element {
 	list-style-type: none;
+}
+.list-counter-0 > div > * {
+	text-indent: 0px;}
+.list-counter-0 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-0, disc) '\00a0';
+	counter-increment: list-counter-0;
+}
+.list-counter-0 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-1 > div > * {
+	text-indent: 0px;}
+.list-counter-1 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-1, disc) '\00a0';
+	counter-increment: list-counter-1;
+}
+.list-counter-1 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-2 > div > * {
+	text-indent: 0px;}
+.list-counter-2 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-2, disc) '\00a0';
+	counter-increment: list-counter-2;
+}
+.list-counter-2 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-3 > div > * {
+	text-indent: 0px;}
+.list-counter-3 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-3, disc) '\00a0';
+	counter-increment: list-counter-3;
+}
+.list-counter-3 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
 }
