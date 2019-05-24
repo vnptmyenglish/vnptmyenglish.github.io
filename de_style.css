@@ -26,8 +26,8 @@ div.description_on_page div.p,
  .m-pageContent__side__left div.p,
  .m-pageContent__side__left div.p a
 {
-font-family:"Arial";
-font-size: 11pt;color:#000000;
+font-family:"Times New Roman";
+font-size: 14pt;color:#000000;
 font-style:normal;
 text-decoration:none;
 font-weight:normal;
@@ -84,9 +84,29 @@ span.de_2B94C39861
 	color:#0000ff;
 	text-decoration:underline;
 }
-span.de_8875473D98
+span.de_6046F44C26
 {
-	color:#ff3600;
+	font-family: "Proxima Nova";
+	font-size: 12pt;
+	color:#008aff;
+}
+span.de_7E51F76241
+{
+	font-family: "Times New Roman";
+	font-size: 14pt;
+	color:#008a05;
+}
+span.de_CAB14B116D
+{
+	font-family: "Times New Roman";
+	font-size: 14pt;
+	color:#000000;
+}
+span.de_E4B5CE4D4B
+{
+	font-family: "Proxima Nova";
+	font-size: 11pt;
+	color:#000000;
 }
 .list-element {
 	list-style-type: none;
@@ -156,6 +176,60 @@ span.de_8875473D98
 	counter-increment: list-counter-3;
 }
 .list-counter-3 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-4 > div > * {
+	text-indent: 0px;}
+.list-counter-4 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-4, disc) '\00a0';
+	counter-increment: list-counter-4;
+}
+.list-counter-4 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-5 > div > * {
+	text-indent: 0px;}
+.list-counter-5 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-5, disc) '\00a0';
+	counter-increment: list-counter-5;
+}
+.list-counter-5 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-6 > div > * {
+	text-indent: 0px;}
+.list-counter-6 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-6, disc) '\00a0';
+	counter-increment: list-counter-6;
+}
+.list-counter-6 > div > div[class='list-marker-chm'] {
 	display: inline-block;
 	text-align: left;
 	zoom: 1;
