@@ -79,10 +79,28 @@ margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
 img.de_D457E58A2E
 {
 margin-top: 0px; margin-right: 8px; margin-bottom: 8px; margin-left: 8px;}
+span.de_17FBA9354F
+{
+	font-family: "Calibri (Vietnamese)";
+	font-size: 11pt;
+	color:#000000;
+}
 span.de_2B94C39861
 {
 	color:#0000ff;
 	text-decoration:underline;
+}
+span.de_4C8A9A0B9C
+{
+	font-family: "Calibri";
+	font-size: 20pt;
+	color:#0012ff;
+}
+span.de_4CD179DA38
+{
+	font-family: "Calibri";
+	font-size: 11pt;
+	color:#000000;
 }
 span.de_6046F44C26
 {
@@ -95,6 +113,12 @@ span.de_7E51F76241
 	font-family: "Times New Roman";
 	font-size: 14pt;
 	color:#008a05;
+}
+span.de_7FF7383A77
+{
+	font-family: "Calibri CE";
+	font-size: 11pt;
+	color:#000000;
 }
 span.de_CAB14B116D
 {
